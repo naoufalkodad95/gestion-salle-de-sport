@@ -14,12 +14,11 @@ Projet de Synthèse de 3ème Année en Génie Informatique (EHEI Oujda). L'objec
 
 ## 📸 Captures d'écran
 
+<img width="582" height="212" alt="page de connexion" src="https://github.com/user-attachments/assets/e571c692-debc-4fca-874e-38c1ee9150c8" />
+<img width="702" height="258" alt="menuResponsable" src="https://github.com/user-attachments/assets/b0777ad0-006e-4694-812e-27e145edde18" />
 
-<img width="582" height="212" alt="page de connexion" src="https://github.com/user-attachments/assets/f7915caa-7205-4b32-a4f3-1ccb8ead61c9" />
 
-<img width="702" height="258" alt="menuResponsable" src="https://github.com/user-attachments/assets/23bd5ae0-a9b0-4faf-86c0-ac0211598847" />
-
-<img width="708" height="182" alt="GererEquipement" src="https://github.com/user-attachments/assets/b3da0de9-35bc-431b-ba20-7816c98de5f2" />
+<img width="708" height="182" alt="GererEquipement" src="https://github.com/user-attachments/assets/d49d52c4-4aba-4a03-84d3-d2d1be82c962" />
 
 ## 💻 Technologies et Outils!
 
@@ -36,7 +35,7 @@ Application en mode console (aucune interface graphique, interactions via la lig
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/naoufalkodad95/gestion-salle-de-sport-java.git](https://github.com/naoufalkodad95/gestion-salle-de-sport-java.git)
+    git clone [https://github.com/naoufalkodad95/gestion-salle-de-sport.git](https://github.com/naoufalkodad95/gestion-salle-de-sport.git)
     cd gestion-salle-de-sport-java
     ```
 
