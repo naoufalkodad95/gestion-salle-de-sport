@@ -36,7 +36,7 @@ Application en mode console (aucune interface graphique, interactions via la lig
 1.  **Cloner le dépôt :**
     ```bash
     git clone [https://github.com/naoufalkodad95/gestion-salle-de-sport.git](https://github.com/naoufalkodad95/gestion-salle-de-sport.git)
-    cd gestion-salle-de-sport-java
+    cd gestion-salle-de-sport
     ```
 
 2.  **Base de données :**
